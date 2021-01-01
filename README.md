@@ -33,3 +33,29 @@ A uncool approach to learn the dark arts of quantum computing [__Just Logs of wh
   publisher={Springer}
 }
 ```
+
+### Day 1:
+
+- How do we understand Quantum Computing?
+- What does Quantum Mechanics say about the state of a system?
+     - Revisit: Schodinger's cat
+- What is superposition 
+   - What is linear combination
+- Example of superposition: Polariation of light
+   - Revisit: Basics of Electromagnetic waves
+   - Revisit: Polarized vs Unpolarized Light
+   - Revisit: Polarization
+- An extended case of the above:
+     1. Case A: the first filter is horizontal, second is vertical, what light do you see?
+     2. Case B: the first filter is horizontal, second is vertical, what light do you see
+- Born's rule --> `the modulus square of the amplitude of a state is equal to the probability of its' occurence after measurement`
+- EPR (Einstein Pdolsky Rosen) Paradox
+- Weird concept of entanglement, "spooky action at a distance"
+- Interpretation in information theory
+- Physical limitation of the speed and compactness of computing circuit in terms of energy dissipated --> Lauder's Bound 
+- Irreversibility ( base definition in terms of information theory) --> `If the output cannot explicitly define the input of the system`
+     - Revisit Second Law of Thermodynamics
+           - Revisit Entropy
+           - Revisit First Law of Thermodynamics
+- Classical Computing Irreversible Operation example (Simply an OR/AND GATE)
+- Quantum Computers should have reversible logical information --> No measurement is lost implying no information is lost
