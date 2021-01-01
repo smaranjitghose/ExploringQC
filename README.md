@@ -10,6 +10,8 @@ A uncool approach to learn the dark arts of quantum computing [__Just Logs of wh
 - Relate to high school physics days
 - Take psuedo inspiration from Neil DeGrasse Tyson
 - Learn QisKit
+- [Complete QisKit Textbook](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html)
+- [QisKit Summer School](https://qiskit.org/events/summer-school/)
 - Build cute projects. Quite a lot that one can fill the resume with but after a month won't be worth it
 - Understand why on earth do we need QuantumML? 
 - Or QuantumCV?
@@ -20,6 +22,7 @@ A uncool approach to learn the dark arts of quantum computing [__Just Logs of wh
 - Teach 5 people 
 - Be satisfied enough to add Quantum Computing as a skill on LinkedIN
 - Quantum Open Source
+- Connect with Quantum Computing Community Titans
 
 ## Resources:
 
