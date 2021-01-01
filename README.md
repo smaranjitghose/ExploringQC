@@ -20,3 +20,16 @@ A uncool approach to learn the dark arts of quantum computing [__Just Logs of wh
 - Teach 5 people 
 - Be satisfied enough to add Quantum Computing as a skill on LinkedIN
 - Quantum Open Source
+
+## Resources:
+
+1. Quantum Computing: An Applied Approach by Jack D. Hidary 
+
+```
+@book{hidary2019quantum,
+  title={Quantum Computing: An Applied Approach},
+  author={Hidary, Jack D},
+  year={2019},
+  publisher={Springer}
+}
+```
