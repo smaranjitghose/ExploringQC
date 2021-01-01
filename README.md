@@ -59,3 +59,10 @@ A uncool approach to learn the dark arts of quantum computing [__Just Logs of wh
            - Revisit First Law of Thermodynamics
 - Classical Computing Irreversible Operation example (Simply an OR/AND GATE)
 - Quantum Computers should have reversible logical information --> No measurement is lost implying no information is lost
+
+
+###### Resources:
+
+EPR Paradox + Quantum Entanglement:
+- [Frank Wilzek's article on the Quanta Magazine Blog](https://www.quantamagazine.org/entanglement-made-simple-20160428/) ** CS folks can enjoy this solely
+- [Video 1](https://www.youtube.com/watch?v=fBR5HQ-Ja10), [Video 2](https://www.youtube.com/watch?v=-WSWz1H3mJg) - Parth's explanations on YouTube
