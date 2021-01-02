@@ -100,3 +100,30 @@ EPR Paradox + Quantum Entanglement:
 
 Launderer principle, Irreversiblity of Computation, Reversible Computers
   - [Lecture by Holger Bock Axelsen](https://www.youtube.com/watch?v=rVmZTGeIwnc)
+  
+## Day 2
+
+Taking a moment to reflect on great concepts you learnt in high school physics that defines and domniates our physical world: Thermodynamics, Optics, Eletromagnetism and what not!
+
+Revise Day 1 and understand it better
+
+_Main focus today: History of Quantum Computing_
+
+Learn/Revise Big Oh, Big Omega
+
+- Benioff's theoritical formulation of quantum computing [1979]
+- Manin's book "Computable and Non Computable [1980]
+- Richard Fenyman's inuendo in the lecture, "Simulating Physics with Computers" [1981]
+- Deutsch's description of a quantum computer [1985]
+- Deutsch-Jotza Algorithm 
+- Bernstein Vazirani [1993]
+- Simon's Algorithm [1994]
+- Peter Shor [1994]
+- Grover's Algorithm [1996]
+
+
+##### Resources:
+
+- If you want a have a light day, the text book helps you with this one!
+
+- [History of Quantum Computing by Saesum Kim](https://www.youtube.com/watch?v=HaeJ8Q8TKxA): Starts way beyond when we were wondering about what a "bit" should be! Take some popcorn or pakode and a cup of tea/coffee/beer and enjoy this! Understand how the perspective of the research change with inputs coming from people belonging to different backgrounds, each building on the former, screw remembering the details of the exact work, get some of the names straight. They'll come back to haunt it in the later days!
